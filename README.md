@@ -124,7 +124,7 @@ The application uses Laravel Breeze to handle user authentication.
 
 ---
 
-## API Endpoints
+## Links to Access
 
 ### **Authentication**
 
